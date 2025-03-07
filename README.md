@@ -17,8 +17,8 @@ The **Income Tax Calculator** is a Java-based application that helps users calcu
    ```
 2. Compile and run the Java program:
    ```
-   javac src/tax.java
-   java src.tax
+   javac tax.java
+   java tax
    ```
 3. Follow the on-screen instructions to enter your income details and get your tax calculations.
 
